@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "flink",
+    "slug": "flink",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "flink"
+}
